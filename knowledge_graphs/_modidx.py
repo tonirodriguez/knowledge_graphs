@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://tonirodriguez.github.io',
                 'git_url': 'https://github.com/tonirodriguez/knowledge_graphs',
                 'lib_path': 'knowledge_graphs'},
-  'syms': {'knowledge_graphs.core': {'knowledge_graphs.core.foo': ('core.html#foo', 'knowledge_graphs/core.py')}}}
+  'syms': {'knowledge_graphs.ner': {'knowledge_graphs.ner.say_hello': ('ner.html#say_hello', 'knowledge_graphs/ner.py')}}}
